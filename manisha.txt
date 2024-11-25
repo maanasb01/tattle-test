@@ -1,2 +1,3 @@
 My name is Manisha Kumari and I am a coder.
-Change something something
+Change something something. 
+We change many things in this file. 
